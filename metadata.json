@@ -1,0 +1,6 @@
+{
+  "name": "AspectLab",
+  "description": "Professional video aspect ratio engine with 100+ presets, custom X:Y ratio generator, live framing canvas, AI subject cutout tracking, and video resolution calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
